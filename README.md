@@ -10,6 +10,7 @@ Welcome to the Java Snake Game! This classic arcade game is implemented in Java,
 - **High Score:** Keep track of your highest score achieved during gameplay.
 
 ##Screenshots 
+
 ![Screenshot 2023-11-27 162314](https://github.com/EvanC54/Java-Snake-Game-/assets/64505599/ed16fb77-a2bf-4781-81f2-42ce612f94fe)
 
 ![Screenshot 2023-11-27 161433](https://github.com/EvanC54/Java-Snake-Game-/assets/64505599/2c769c30-8610-4654-ad9f-b5a94cce8fea)
